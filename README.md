@@ -36,8 +36,12 @@ The bottom part displays a live preview of the changes made to the files/folders
 * Sort directories.
 * Cross-platform support.
 
-## Code Source
-The code source is hosted at https://github.com/pierrecnalb/White-Renamer
+## Installation
+* Click on "dowload zip" and select where to put the program files. (e.g: C:\Program Files\WhiteRenamer)
+* Create a shortcut of WhiteRenamer.exe wherever your want to launch it.
+
+## Source Code
+The source code is hosted at https://github.com/pierrecnalb/White-Renamer
 
 ## License
 White Renamer is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
